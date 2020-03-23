@@ -27,7 +27,7 @@ appData.expenses[a] = b;
 appData.moneyperday = appData.budget /30;
 
 alert("Ежедневный бюджет: " + appData.moneyperday);
-
+/*
 if (appData.moneyperday < 100 ){
   console.log("Минимальный уровень достатка");
 }else if (appData.moneyperday >100 && appData.moneyperday < 2000) {
@@ -53,4 +53,4 @@ switch (appData.moneyperday) {
       break;
 }
 
-
+*/
