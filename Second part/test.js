@@ -26,7 +26,7 @@ appData.expenses[a] = b;
           i--;
         }
 }
-/*
+/*()
 // второй цикл
 let i = 0;
 while ( i < 2){
