@@ -2,7 +2,15 @@
 	"folders": [
 		{
 			"path": "/Users/aarunov/Documents/java"
+		},
+		{
+			"path": "/Users/aarunov/Documents/js_lab"
+		},
+		{
+			"path": "/Users/aarunov/Documents/Homework/Для ДЗ №5"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Для ДЗ №5"
+	}
 }
